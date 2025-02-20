@@ -12,3 +12,7 @@ MEMOS_DOMAIN=${APP_NAME}${APP_DOMAIN}
 MEMOS_ADDR=0.0.0.0
 MEMOS_PORT=5432
 ```
+
+Credits to: 
+[neosmemo](https://hub.docker.com/r/neosmemo/memos)
+[Use Memos](https://github.com/usememos/memos)
